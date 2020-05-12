@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-probaa/static/css/main.23b1d036.chunk.css",
+    "main.js": "/react-probaa/static/js/main.4ab6e7c0.chunk.js",
+    "main.js.map": "/react-probaa/static/js/main.4ab6e7c0.chunk.js.map",
+    "runtime-main.js": "/react-probaa/static/js/runtime-main.0870170b.js",
+    "runtime-main.js.map": "/react-probaa/static/js/runtime-main.0870170b.js.map",
+    "static/js/2.403ae6fa.chunk.js": "/react-probaa/static/js/2.403ae6fa.chunk.js",
+    "static/js/2.403ae6fa.chunk.js.map": "/react-probaa/static/js/2.403ae6fa.chunk.js.map",
+    "index.html": "/react-probaa/index.html",
+    "precache-manifest.9b092fde58d047ac2fc42e7ff22f207d.js": "/react-probaa/precache-manifest.9b092fde58d047ac2fc42e7ff22f207d.js",
+    "service-worker.js": "/react-probaa/service-worker.js",
+    "static/css/main.23b1d036.chunk.css.map": "/react-probaa/static/css/main.23b1d036.chunk.css.map",
+    "static/js/2.403ae6fa.chunk.js.LICENSE": "/react-probaa/static/js/2.403ae6fa.chunk.js.LICENSE",
+    "static/media/palaca.jpg": "/react-probaa/static/media/palaca.fef43f4e.jpg",
+    "static/media/palacaa.jpg": "/react-probaa/static/media/palacaa.b2f9893b.jpg",
+    "static/media/split.jpg": "/react-probaa/static/media/split.78f6d100.jpg",
+    "static/media/ssplit.jpg": "/react-probaa/static/media/ssplit.2f7d8311.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0870170b.js",
+    "static/js/2.403ae6fa.chunk.js",
+    "static/css/main.23b1d036.chunk.css",
+    "static/js/main.4ab6e7c0.chunk.js"
+  ]
+}
